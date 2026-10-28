@@ -55,6 +55,6 @@ Group by `mode` and `prefix_match_len`, calculate median `cpu_cycles` and disper
 
 ## Citation and reuse
 
-Suggested provisional citation: **Sobhan, A. (2026). *Timing side-channel measurements of early-exit and fixed-work comparisons on ESP32 and ESP8266* [Dataset]. GitHub.** Add the repository URL or an archival DOI once available.
+Suggested provisional citation: **Sobhan, A. (2026). *Timing side-channel measurements of early-exit and fixed-work comparisons on ESP32 and ESP8266* [Dataset]. GitHub.** https://github.com/Abrarcancode67/esp32-esp8266-timing-sidechannel-data. An archival DOI can be added once registered.
 
-No reuse license has been selected yet. Public availability should not be interpreted as permission to redistribute or adapt the files under a particular license. The author may add a license in a later release.
+**License:** The dataset and its accompanying documentation are shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, distribute, and adapt the material, including for commercial purposes, provided you give appropriate credit, link to the license, and indicate whether changes were made. The separate experimental source code, which is not included in this repository, is not covered by this license.
