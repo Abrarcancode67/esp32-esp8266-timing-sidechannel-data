@@ -2,6 +2,8 @@
 
 Raw experimental data collected by **Abrar Sobhan** (2026) for a study of how the position of the first mismatching byte affects comparison timing on ESP32 and ESP8266 microcontrollers.
 
+**Archived dataset (version 1.0.0):** [https://doi.org/10.5281/zenodo.23734527](https://doi.org/10.5281/zenodo.23734527). This DOI identifies the publicly archived Zenodo version of these measurements.
+
 This is a **data-only release**. The four CSV files were copied without modification from the original research archive. Firmware, host-side collection scripts, and manuscript drafts are **not** included here.
 
 ## Files
@@ -55,6 +57,6 @@ Group by `mode` and `prefix_match_len`, calculate median `cpu_cycles` and disper
 
 ## Citation and reuse
 
-Suggested provisional citation: **Sobhan, A. (2026). *Timing side-channel measurements of early-exit and fixed-work comparisons on ESP32 and ESP8266* [Dataset]. GitHub.** https://github.com/Abrarcancode67/esp32-esp8266-timing-sidechannel-data. An archival DOI can be added once registered.
+**Recommended dataset citation:** Sobhan, A. (2026). *Timing Side-Channel Measurements of Early-Exit and Fixed-Work Comparisons on ESP32 and ESP8266* (Version 1.0.0) [Dataset]. Zenodo. https://doi.org/10.5281/zenodo.23734527
 
 **License:** The dataset and its accompanying documentation are shared under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may copy, distribute, and adapt the material, including for commercial purposes, provided you give appropriate credit, link to the license, and indicate whether changes were made. The separate experimental source code, which is not included in this repository, is not covered by this license.
